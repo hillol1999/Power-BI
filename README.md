@@ -38,6 +38,7 @@ The Blinkit Dashboard Project is an excellent opportunity to learn about:
 
 ## Project Components
 ### Overview Page
+---
 #### 1. Total Deliveries Over Time (Line Chart)
 Data Shown: Displays the trend of total deliveries made over a specific period (daily, weekly, or monthly)
 
@@ -58,7 +59,9 @@ Data Shown: Revenue split across different geographical areas or cities
 Business Implications:
 1. Identifying top-performing regions allows businesses to focus marketing and expansion efforts in areas with high demand
 2. Underperforming regions can be examined for operational or logistical issues
+---
 ### Sales Overview Page
+---
 #### 1. Revenue by Product Category (Column Chart)
 Data Shown: Total revenue generated from each product category over a defined period
 
@@ -79,7 +82,9 @@ Data Shown: The average revenue generated per order
 Business Implications:
 1. A higher average order value (AOV) suggests customers are purchasing more per transaction
 2. Businesses can use this insight to create upselling and cross-selling opportunities
+---
 ### Customers Page
+---
 #### 1. Customer Retention Rate (Gauge Chart)
 Data Shown: The percentage of customers who place repeat orders within a defined time frame
 
@@ -98,7 +103,9 @@ Data Shown: Common keywords or phrases from customer reviews, categorized as pos
 Business Implications:
 1. Allows businesses to understand customer perceptions and pinpoint areas for improvement
 2. Positive feedback trends can be used in marketing materials, while negative trends indicate areas needing immediate action
+---
 ### Inventory Page
+---
 #### 1. Stock Levels by Product Category (Bar Chart)
 Data Shown: Current stock availability across different product categories
 
@@ -117,7 +124,9 @@ Data Shown: Identifies products that are nearing stock depletion levels
 Business Implications:
 1. Ensures timely reordering to avoid stockouts and lost sales opportunities
 2. Helps prioritize restocking based on customer demand and profitability
+---
 ### Marketing Page
+---
 #### 1. Campaign ROI Analysis (Bar or Funnel Chart)
 Data Shown: ROI of various marketing campaigns, comparing investment and resulting revenue
 
